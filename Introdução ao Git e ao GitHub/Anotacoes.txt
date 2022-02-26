@@ -1,0 +1,2 @@
+Link para download do Git: https://git-scm.com/
+Use linux e nao sofra com Git Bash
